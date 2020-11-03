@@ -25,4 +25,4 @@ Det ska finnas en huvudbranch
         -> behöver  merge med huvudbranch
 
 git branch () // skapa branch
-git checkout () // byt branch
+git checkout () // byt till () branch
