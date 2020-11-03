@@ -1,0 +1,27 @@
+git init // spåra allt denna mapp // en gång per projekt
+
+Varje gång man gör en ändring:
+git add . // allt fråm mappen
+git commit-m "meddelandet" // spara filerna från mappen
+
+
+git status // visa tracked/untracked filer
+
+
+*****GITHUB*****
+remote repos/working directory/mapp .
+
+* git remote add origin https://din-repo-address // en gång per projekt
+* git push origin main // pushar lokalkod till github // main är branch
+
+Branch:
+
+Jobba parralellt med ett projekt
+
+Det ska finnas en huvudbranch
+        -> ska ha clean, testad kod
+
+    devbranch, testbranch
+        -> behöver  merge med huvudbranch
+
+git branch () // skapa branch
